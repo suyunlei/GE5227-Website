@@ -1,2 +1,6 @@
 # GE5227-Website
-GE5227-Website template, only for academic purpose.
+# Author: SU YUNLEI
+# Group Members: KOICHI ITO, WANG LINGHAO
+**Academic Purpose Only**
+
+GE5227-Final Project Presentation Website template
